@@ -5,12 +5,9 @@
       <list>
         <JupyterConnectionParameters>
           <option name="authType" value="notebook" />
-          <option name="token" value="lsy1110." />
-          <option name="urlString" value="http://192.168.0.4:8888/" />
+          <option name="urlString" value="http://192.168.0.4:8888" />
           <authParams2>
-            <map>
-              <entry key="token" value="lsy1110." />
-            </map>
+            <map />
           </authParams2>
         </JupyterConnectionParameters>
         <JupyterConnectionParameters>
@@ -24,6 +21,20 @@
     </option>
     <option name="moduleParameters">
       <map>
+        <entry key="$PROJECT_DIR$/../../../../../../../../CommonFile/Construction/.idea/Construction.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="lsy1110." />
+              <option name="urlString" value="http://192.168.0.4:8888/" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="lsy1110." />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../Construction/.idea/Construction.iml">
           <value>
             <JupyterConnectionParameters>
